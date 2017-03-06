@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Examendos</string>
+    <string name="Cuadernos">
+       "Espiral:.\n\n"
+
+       "El cuaderno con espiral es el cuaderno de papel más común.\n\n"
+       "Los estudiantes son los principales usuarios y por buenas razones.\n\n"
+       "Son baratos. Vienen en muchos tamaños, la mayoría van desde 70 hasta 200""
+       "páginas. Normalmente están atados con alambre y agujeros perforados, y sus"
+       "páginas son generalmente perforados para facilitar su extracción. El tamaño"
+       "más común es 8,5 por 11 pulgadas (21,5 por 28 cm). Contienen papel rayado o"
+       "de cuadrícula chica o grande. Sus cubiertas son de plástico flexible,"
+       "polipropileno o cartón delgado.\n\n"
+
+       "Laboratorio o científicos:.\n\n"
+
+       "Los cuadernos de laboratorio o científicos están diseñados para mantener"
+       "un registro permanente del progreso científico. Los científicos a menudo "
+       "los usan para documentos de solicitudes de patentes. Se llenan generalmente"
+        "con papel milimetrado que contiene cabeceras para registrar los detalles de"
+        "una experimento o investigación. Estos cuadernos de cubierta suave son "
+        "relativamente baratos, pero los de portada rígida utilizados por los
+        "científicos pueden costar tanto como US$20.\n\n"
+
+        "De especialidad:.\n\n"
+
+        "Los cuadernos de papel se ofrecen en muchos estilos dependiendo de los"
+        "gustos y usos de los consumidores. Los cuadernos especiales contienen "
+        "páginas impermeables que se diseñaron originalmente para uso militar.\n\n"
+        "Los "Cuadernos" que técnicamente son tarjeteros son útiles para aquellos "
+        "que prefieren grabar un pensamiento por tarjeta. Los que tienen tapas "
+        "diseñadas por artistas profesionales son valorados por su arte más que su"
+        "utilidad. Los de tamaño carta legales con cartón extra rígido facilitan la"
+        "escritura sobre la marcha.\n\n"
+    </string>
+    <string name="Lápiz">
+        "Lápices de grafito:.\n\n"
+
+        "Estos son los tipos más comunes de lápices. Se hacen de una mezcla de arcilla
+        y grafito y su oscuridad varía de gris claro a negro. Su composición permite
+        "trazos más lisos..\n\n"
+
+        "Lápices de carbón de leña.\n\n"
+
+        "Se hacen del carbón de leña y proporcionan negros más llenos que los lápices del
+        grafito, pero tienden a manchar fácilmente y son más abrasivos que el grafito.
+        "Los lápices en tono sepia y blancos están también disponibles para la técnica duotone..\n\n"
+
+        "Lápices de color.\n\n"
+
+        "Artículo principal: Lápiz de color
+        Conocidos comúnmente como lápices coloreados, éstos tienen una mina de cera con el
+        pigmento y otros aditivos. Múltiples colores se mezclan a menudo juntos. La variedad
+        de un set de lápices de color se puede determinar por el número de colores únicos que
+        "contiene..\n\n"
+
+        "Lápices de grasa.\n\n"
+
+        "También conocidos como marcadores de China. Escriben virtualmente en cualquier superficie
+        (incluyendo vidrio, plástico, metal y fotografías). Los lápices de grasa más comúnmente
+        encontrados están envueltos en papel (Berol y Sanford adhesivos), pero pueden también
+        "estar envueltos en madera (Staedtler Omnichrom)..\n\n"
+
+        "Lápices de Acuarela.\n\n"
+
+        "Estos se diseñan para el uso con técnicas de acuarela. Los lápices se pueden utilizar
+        solos para las líneas agudas y en negrilla. Los trazos hechos por el lápiz se pueden
+        "también saturar con agua y extender con pinceles..\n\n"
+
+        "Según su utilidad.\n\n"
+
+        "Dos lápices de madera, dos lápices de carbón y dos lápices de grasa..\n\n"
+
+        "Lápices de carpintería.\n\n"
+
+        "Estos lápices tienen dos características principales: su forma ovalada les evita rodar
+        y su mina es fuerte. El lápiz más viejo que subsiste es un lápiz de carpintería alemán
+        "que data a del siglo XVII y ahora está en la colección de Faber-Castell y Lyra Industrial..\n\n"
+
+        "Lápices de copiado.\n\n"
+
+        "Estos son lápices de grafito con un tinte agregado que crea una marca indeleble.
+        Fueron inventados a fines del siglo XIX para la imprenta de la prensa y como un substituto
+        práctico para las plumas. Sus marcas son a menudo visualmente indistinguibles de las de los
+        lápices estándar del grafito, pero cuando están humedecidas sus marcas se disuelven a una
+        tinta coloreada, que luego se imprime a otra pieza de papel. Se utilizó hasta comienzos del
+        "siglo XX, en que el bolígrafo los sustituyó lentamente..\n\n"
+
+        "Lápices de color borrable.\n\n"
+
+        "Contrario a los lápices de color a base de cera, estos pueden ser borrados fácilmente.
+        Se usa principalmente en bosquejos, donde el objetivo es crear un esquema usando el mismo
+        color que otros medios (tales como lápices de cera, o pinturas de acuarela) llenarían, o
+        cuando el objetivo es explorar el bosquejo del color. Algunos animadores prefieren lápices
+        borrables de color a los lápices del grafito porque estos no manchan fácilmente, y los
+        diversos colores permiten una mejor separación de objetos en el bosquejo. Copio-editores
+        los encuentran útiles también, pues sus marcas se destacan más que el grafito pero pueden
+        "ser borradas..\n\n"
+
+        "No reproducibles.\n\n"
+
+        "Los lápices azules non-photo, como Sanford's Copy-not o Staedtler' Mars Non-photo,
+        o whiteprint, como Staedtler' s Mars Non-Print, hacen marcas que no son reproducidas por
+        "las fotocopiadoras o por las copiadoras..\n\n"
+
+        "Lápiz de estenógrafo.\n\n"
+
+        "Se espera que estos lápices sean muy confiables, y su mina es a prueba de roturas. Los
+        "lápices del estenógrafo se afilan a veces en ambos extremos..\n\n"
+
+        "Lápiz de golf.\n\n"
+
+        "Los llamados lápices de golf son generalmente cortos (una longitud común es los 9 cm)
+        y muy baratos. También se conocen como lápices de biblioteca, ya que muchas bibliotecas
+        "los ofrecen como instrumentos de escritura desechables e inderramables..\n\n"
+
+    </string>
+    
+    <string name="Goma_de_borrar">
+        "Goma moldeable:.\n\n"
+
+        "Es una masilla plástica, parecida a la plastilina, pero nada oleosa. Debido a su
+        composición no presenta una estructura sólida. Al ser moldeable nos permite retocar su
+        forma, estirarla, amasarla y lo más importante: no se desgarra al frotarla contra el papel.
+        Es ideal para el grafito blando o para el carboncillo. Al no dejar migas no daña el papel.
+        Sólo recoge parte del grafito al entrar en contacto con el dibujo.
+        Tiene la ventaja de poder acceder a zonas muy pequeñas trabajándola con la forma ideal y
+        de no dejar migas cuando es utilizada. Fue inventada para limpiar el polvo de las máquinas
+        de escribir. Cuando se descubrió sus cualidades también se empezó a utilizar en el dibujo..\n\n"
+
+       " Goma de borrar tinta.\n\n"
+
+       " es un ejemplo de evolución de este tipo de gomas de caucho. Entre su materia residen
+        minúsculos trozos de metal que desgarran la capa más superficial del papel llevándose
+        consigo el dibujo. Están pensadas para borrar tinta ya que esta no es posible ser eliminada
+        con cualquier otro tipo de goma. Tienen el inconveniente de dañar gravemente las zonas del
+        papel que borran..\n\n"
+
+       " Líquido corrector:.\n\n"
+
+       " Se sirve en pequeños botes con pincel o en rotuladores.
+        Proporcionan una pintura blanca densa que oculta el color oscuro bajo sus capas.
+        Tiene un inconveniente: una vez seca la superficie cubierta es fácilmente ensuciable si
+        trabajamos con grafito. Si mantenemos esa zona limpia podemos convencernos que no amarillea.\n\n"
+    </string>
+
+    <string name="action_settings">Settings</string>
+</resources>

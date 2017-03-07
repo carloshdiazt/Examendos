@@ -14,10 +14,10 @@ public class CreateSupplies {
         this.callback = callback;
     }
 
-    public void validation(String name){
-        if(name.trim().length() > 0){
+    public void validation(String cuaderno){
+        if(cuaderno.trim().length() > 0){
             Supplies supplies = new Supplies();
-            supplies.setName(name);
+            supplies.setName(cuaderno);
             supplies.setDone(false);
             supplies.save();
             callback.created(supplies);

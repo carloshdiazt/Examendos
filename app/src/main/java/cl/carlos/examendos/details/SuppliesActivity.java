@@ -7,15 +7,17 @@ import android.widget.Toast;
 import cl.carlos.examendos.R;
 import cl.carlos.examendos.models.Supplies;
 
-public class BookActivity extends AppCompatActivity {
+public class SuppliesActivity extends AppCompatActivity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_book);
+        setContentView(R.layout.activity_supplies);
 
         long id = getIntent().getLongExtra("id", 0);
         Supplies supplies = Supplies.findById(Supplies.class, id);
         Toast.makeText(this, supplies.getName(), Toast.LENGTH_SHORT).show();
-    }
+
+        }
 }

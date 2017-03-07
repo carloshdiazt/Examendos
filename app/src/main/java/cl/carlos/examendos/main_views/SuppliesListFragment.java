@@ -9,16 +9,14 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.EditText;
 
 import cl.carlos.examendos.R;
 import cl.carlos.examendos.adapters.SuppliesAdapters;
 import cl.carlos.examendos.adapters.SuppliesClickListener;
-import cl.carlos.examendos.details.BookActivity;
+import cl.carlos.examendos.details.SuppliesActivity;
+
 import cl.carlos.examendos.models.Supplies;
 
-import static cl.carlos.examendos.R.id.listingEt;
-import static cl.carlos.examendos.R.layout.dialog_listing;
 
 /**
  * A placeholder fragment containing a simple view.
@@ -54,10 +52,11 @@ public class SuppliesListFragment extends Fragment implements SuppliesClickListe
         adapters.addSupplies(supplies);
     }
 
+
     @Override
     public void clickId(long id) {
-        Intent intent = new Intent(getActivity(), BookActivity.class);
-        intent.putExtra("id",id);
+        Intent intent = new Intent(getActivity(), SuppliesActivity.class);
+        intent.putExtra("id", id);
         startActivity(intent);
 
     }
